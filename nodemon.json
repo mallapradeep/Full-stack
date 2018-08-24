@@ -1,0 +1,6 @@
+{
+    "ignore": [
+        "src",
+        "__instructor-code__"
+    ]
+}
